@@ -9,7 +9,7 @@ ingress:
   annotations: {}
   tls: []
   enabled: false
-replicaCount: 6
+replicaCount: 7
 tolerations: []
 service:
   port: 80
